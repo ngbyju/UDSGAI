@@ -1,0 +1,7 @@
+Datasets:
+
+https://github.com/datasciencedojo/datasets
+
+https://github.com/mwaskom/seaborn-data/tree/master
+
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
